@@ -6,7 +6,7 @@
 variables: 
 - group: AzureResourcesVariableGroup
 
-trigger: none
+trigger: main
 
 stages:
 - stage: Build
